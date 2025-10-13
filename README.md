@@ -170,9 +170,9 @@ npx prisma studio
 
 This project was brought to life by a dedicated team of developers:
 
-*   **[hraby](https://github.com/Hraby)** (Michal Hrabal) - Project Lead, Backend Development
-*   **[mirekondro](https://github.com/mirekondro)** (Miroslav Ondroušek) - Frontend Web Development
-*   **[honzabehuncik](https://github.com/honzabehuncik)** (Jan Běhunčík) - Frontend Mobile Development
+*   **[hraby](https://github.com/Hraby)** (Michal Hrabal) - Fullstack Development & Project Lead
+*   **[mirekondro](https://github.com/mirekondro)** (Miroslav Ondroušek) - Frontend Mobile Development
+*   **[honzabehuncik](https://github.com/honzabehuncik)** (Jan Běhunčík) - Frontend Web Development
 
 ## 📄 License
 
